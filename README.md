@@ -1,3 +1,6 @@
+<!-- Image -->
+<picture> <img alt="Coding" src="https://user-images.githubusercontent.com/110403753/196526729-72e5196b-7b20-4d63-8c9e-ce78010e159a.gif" align="center" style="width:100%;heigth:200px;border-radius: 15px;"> </picture>
+
 ### Hi there 👋
 
 <!--
