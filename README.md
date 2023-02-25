@@ -1,8 +1,13 @@
 <!-- Image -->
-<picture> <img alt="Data" src="https://github.com/nicolazarte2894/nicolazarte2894/blob/main/DataVisualizationCrop.gif" width="100%"> </picture>
+<picture> <img alt="Data" src="https://github.com/nicolazarte2894/nicolazarte2894/blob/main/DataVisualizationCrop.gif" width="100%" > </picture>
 
 
 ### Hi there 👋
+
+
+
+
+![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicolazarte2894&show_icons=true&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d)
 
 <!--
 **nicolazarte2894/nicolazarte2894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
