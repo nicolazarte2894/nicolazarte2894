@@ -1,12 +1,22 @@
-<!-- Image -->
+<!-- GIF -->
 <picture> <img alt="Data" src="https://github.com/nicolazarte2894/nicolazarte2894/blob/main/DataVisualizationCrop.gif" width="100%" > </picture>
 
 
+<!-- GREETINGS -->
 <h1 align="center"> 
 Welcome! 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2Yjk2M2VhZDA2MjBlOTk4NmU4ODdhMWM0YzU4YjU1YmM0N2Q0NCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width=60px class="giphy-embed" >
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2Yjk2M2VhZDA2MjBlOTk4NmU4ODdhMWM0YzU4YjU1YmM0N2Q0NCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width=60px >
 I'm Nico!
 </h1>
+
+<!-- PROFESSION -->
+<h2 align="center">
+Data Scientist | Data Analyst | Data Engineer | Industrial Engineer
+</h2>
+<div align="center">
+<img src=https://img.shields.io/badge/country-Argentina-6CACE4?&style=for-the-badge&labelColor=0a0a0a alt=devto style="margin-bottom: 5px;"/>
+</div>
+
 
 
 <!-- ABOUT ME -->
@@ -34,10 +44,24 @@ print(f"""
        """)
 ```
 
+<!-- TECH STACK -->
 <h2>
   <img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px>
   Tech Stack
 </h2> 
+<div align="center" style="margin-bottom: 5px;">
+
+<a href="" target="_blank">
+  <img src=https://img.shields.io/badge/python-111112?&style=for-the-badge&logo=python alt=python height=30px/>
+</a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/jupyter-111112?&style=for-the-badge&logo=jupyter alt=python height=30px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/pandas-111112?&style=for-the-badge&logo=pandas&logoColor=150458 alt=pandas height=30px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/numpy-111112?&style=for-the-badge&logo=numpy&logoColor=013243 alt=numpy height=30px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/plotly-111112?&style=for-the-badge&logo=plotly&logoColor=3F4F75 alt=plotly height=30px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/numpy-111112?&style=for-the-badge&logo=numpy&logoColor=013243 alt=numpy/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/numpy-111112?&style=for-the-badge&logo=numpy&logoColor=013243 alt=numpy/></a>
+
+</div>  
 
 <!-- STATS -->
 
@@ -46,8 +70,14 @@ print(f"""
   Github Stats
 </h2> 
 
+
 ![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicolazarte2894&show_icons=true&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d)
 
+<div align="center">
+<!--<img src="https://komarev.com/ghpvc/?username=nicolazarte2894&&style=for-the-badge" align="center" />-->
+</div>  
+<br>
+<br>
 
 
 <!-- CONTACT -->
@@ -64,20 +94,6 @@ print(f"""
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:nicolazarte2894@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>  
-<!--
-**nicolazarte2894/nicolazarte2894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
