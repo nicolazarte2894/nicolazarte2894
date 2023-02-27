@@ -12,7 +12,8 @@
 things_about_me = {
                    "Studies": ['Data Science', 'Industrial Engineering'],
                    "Hobbies": ['swimming', 'singing', 'travelling', 'coding'],
-                   "SoftSkills": ['resilience', 'problem-solving', 'creativity', 'adaptability', 'teamwork']
+                   "SoftSkills": ['resilience', 'problem-solving', 'creativity', 'adaptability', 'teamwork'],
+                   "Languages": ['Spanish', 'English']
                    }
 print(f"""
         I'm an tech and data enthusiat person, always willing to collaborate
@@ -22,9 +23,14 @@ print(f"""
         My Studies? ---> {things_about_me['Studies']}
         What do I like to do? ---> {things_about_me['Hobbies']}
         My Soft-Skills? ---> {things_about_me['SoftSkills']}
+        I'm not a poliglot, but I know these languages ---> {things_about_me['Languages']}
        """)
 ```
 
+<h2>
+  <img alt="Data" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px>
+  Tech Stack
+</h2> 
 
 <!-- STATS -->
 
