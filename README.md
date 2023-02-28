@@ -16,7 +16,7 @@ Data Scientist | Data Analyst | Data Engineer | Industrial Engineer
 <div align="center">
 <img src=https://img.shields.io/badge/country-Argentina-6CACE4?&style=for-the-badge&labelColor=0a0a0a alt=devto style="margin-bottom: 5px;"/>
 </div>
-
+<br>
 
 
 <!-- ABOUT ME -->
@@ -43,6 +43,10 @@ print(f"""
         I'm not a poliglot, but I know these languages ---> {things_about_me['Languages']}
        """)
 ```
+<br>
+<br>
+
+
 
 <!-- TECH STACK -->
 <h2>
@@ -77,6 +81,8 @@ print(f"""
 <a href="" target="_blank"><img src=https://img.shields.io/badge/Asana-111112?&style=flat-square&logo=asana&logoColor=F06A6A alt=asana height=27px/></a>
 <a href="" target="_blank"><img src=https://img.shields.io/badge/Slack-111112?&style=flat-square&logo=slack&logoColor=4A154B alt=slack height=27px/></a>
 </div>  
+<br>
+<br>
 
 <!-- STATS -->
 
