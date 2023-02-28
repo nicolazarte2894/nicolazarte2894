@@ -9,7 +9,7 @@ Welcome!
 I'm Nico!
 </h1>
 
-<!-- PROFESSION -->
+<!-- PROFESSION AND LOCATION-->
 <h2 align="center">
 Data Scientist | Data Analyst | Data Engineer | Industrial Engineer
 </h2>
@@ -47,20 +47,35 @@ print(f"""
 <!-- TECH STACK -->
 <h2>
   <img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px>
-  Tech Stack
+  Tech Stack and Tools
 </h2> 
 <div align="center" style="margin-bottom: 5px;">
 
 <a href="" target="_blank">
-  <img src=https://img.shields.io/badge/python-111112?&style=for-the-badge&logo=python alt=python height=30px/>
+  <img src=https://img.shields.io/badge/Python-111112?&style=flat-square&logo=python alt=python height=27px/>
 </a>
-<a href="" target="_blank"><img src=https://img.shields.io/badge/jupyter-111112?&style=for-the-badge&logo=jupyter alt=python height=30px/></a>
-<a href="" target="_blank"><img src=https://img.shields.io/badge/pandas-111112?&style=for-the-badge&logo=pandas&logoColor=150458 alt=pandas height=30px/></a>
-<a href="" target="_blank"><img src=https://img.shields.io/badge/numpy-111112?&style=for-the-badge&logo=numpy&logoColor=013243 alt=numpy height=30px/></a>
-<a href="" target="_blank"><img src=https://img.shields.io/badge/plotly-111112?&style=for-the-badge&logo=plotly&logoColor=3F4F75 alt=plotly height=30px/></a>
-<a href="" target="_blank"><img src=https://img.shields.io/badge/numpy-111112?&style=for-the-badge&logo=numpy&logoColor=013243 alt=numpy/></a>
-<a href="" target="_blank"><img src=https://img.shields.io/badge/numpy-111112?&style=for-the-badge&logo=numpy&logoColor=013243 alt=numpy/></a>
-
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Jupyter-111112?&style=flat-square&logo=jupyter alt=python height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Pandas-111112?&style=flat-square&logo=pandas&logoColor=150458 alt=pandas height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Numpy-111112?&style=flat-square&logo=numpy&logoColor=013243 alt=numpy height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Plotly-111112?&style=flat-square&logo=plotly&logoColor=3F4F75 alt=plotly height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/MySQL-111112?&style=flat-square&logo=mysql&logoColor=4479A1 alt=mysql height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/SQLServer-111112?&style=flat-square&logo=microsoftsqlserver&logoColor=CC2927 alt=sqlserver height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/SQLite-111112?&style=flat-square&logo=sqlite&logoColor=003B57 alt=sqlite height=27px/></a> 
+<a href="" target="_blank"><img src=https://img.shields.io/badge/ScikitLearn-111112?&style=flat-square&logo=scikitlearn&logoColor=F7931E alt=scikitlearn height=27px/></a> 
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Docker-111112?&style=flat-square&logo=docker&logoColor=2496ED alt=docker height=27px/></a>
+  <a href="" target="_blank"><img src=https://img.shields.io/badge/FastAPI-111112?&style=flat-square&logo=fastapi&logoColor=009688 alt=fastapi height=27px/></a>
+  <a href="" target="_blank"><img src=https://img.shields.io/badge/Hadoop-111112?&style=flat-square&logo=apachehadoop&logoColor=66CCFF alt=hadoop height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/PowerBI-111112?&style=flat-square&logo=powerbi&logoColor=F2C811 alt=powerbi height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Tableau-111112?&style=flat-square&logo=tableau&logoColor=E97627 alt=tableau height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Streamlit-111112?&style=flat-square&logo=streamlit&logoColor=FF4B4B alt=streamlit height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Azure-111112?&style=flat-square&logo=microsoftazure&logoColor=0078D4 alt=azure height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/HTML-111112?&style=flat-square&logo=html5&logoColor=E34F26 alt=html height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/CSS-111112?&style=flat-square&logo=css3&logoColor=1572B6 alt=css height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/JavaScript-111112?&style=flat-square&logo=javascript&logoColor=F7DF1E alt=javascript height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/VSCode-111112?&style=flat-square&logo=visualstudiocode&logoColor=007ACC alt=visualstudiocode height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/GIT-111112?&style=flat-square&logo=git&logoColor=F05032 alt=git height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Asana-111112?&style=flat-square&logo=asana&logoColor=F06A6A alt=asana height=27px/></a>
+<a href="" target="_blank"><img src=https://img.shields.io/badge/Slack-111112?&style=flat-square&logo=slack&logoColor=4A154B alt=slack height=27px/></a>
 </div>  
 
 <!-- STATS -->
