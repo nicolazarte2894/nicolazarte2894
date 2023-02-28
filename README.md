@@ -89,7 +89,7 @@ print(f"""
 ![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicolazarte2894&show_icons=true&theme=tokyonight&border_radius=20&border_color=252030&bg_color=DEG,1b1526,0a090d)
 
 <div align="center">
-<!--<img src="https://komarev.com/ghpvc/?username=nicolazarte2894&&style=for-the-badge" align="center" />-->
+<img src="https://komarev.com/ghpvc/?username=nicolazarte2894&&style=for-the-badge" align="center" />
 </div>  
 <br>
 <br>
